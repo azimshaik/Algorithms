@@ -1,4 +1,4 @@
-#include <stdio.h> #standard input output
+#include <stdio.h> #standard input 
 void main()
 {
 	int i,j,temp,p;
