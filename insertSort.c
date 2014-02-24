@@ -1,4 +1,5 @@
-#include <stdio.h> #standard input 
+//jfaskjfkajflakjdfklasjdfklsa
+#include <stdio.h> //standard input 
 void main()
 {
 	int i,j,temp,p;
