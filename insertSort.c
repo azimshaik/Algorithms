@@ -36,6 +36,7 @@ void main()
 				a[j] = temp;
 				}
 			}
+			/* Test */
 		}
 		for(p=0;p<=5;p++){
 			printf("%d\n",a[p]);
